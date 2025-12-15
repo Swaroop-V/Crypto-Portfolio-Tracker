@@ -9,3 +9,7 @@ requests==2.32.5
 sqlparse==0.5.4
 tzdata==2025.2
 urllib3==2.6.2
+dj-database-url
+whitenoise
+gunicorn
+psycopg2-binary
